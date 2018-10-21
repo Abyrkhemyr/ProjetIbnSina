@@ -1,0 +1,70 @@
+
+
+	.header
+	{
+		margin-top:20px;
+	}
+
+	
+	.header img
+	{
+		height:50px;
+		width:150px;
+	}
+	.carousel img
+	{
+		height:250px;
+		width:1000px;
+	}
+
+	.form-inline
+	{
+		margin-bottom:0px;
+	}
+
+	header .nomAssociation
+	{
+		font-family:Georgia ;
+		color:rgb(168,200,168);
+		font-size:25px;
+		font-weight:bold;
+		text-align:center;
+	}
+	
+	/* menu gauche */
+	 .menuGauche
+	 {
+		 margin-top:10px;
+	 }
+	 
+	 /* inscription */
+	 .inscriForm
+	 {
+		 margin-top:30px;
+		 
+	 }
+	 
+	 /* contact */
+	 .mapContact
+	 {
+		 margin-top:30px
+	 }
+	 
+	 
+	footer
+	{
+		margin-top:500px;
+		margin-bottom:0px;
+		background-color:rgb(168,200,168);
+		opacity:50%;
+	}
+
+	.fa-ul li
+	{
+		display:inline-block;
+		padding: 3px;
+	}
+	
+
+	
+	
